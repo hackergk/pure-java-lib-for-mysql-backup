@@ -6,3 +6,4 @@ this values are must be set
 ex: 
 ba.setConn("localhost","shop","root","","3306",false); 
 	
+1
